@@ -1,0 +1,19 @@
+# Core dependencies
+imaplib2>=0.57
+keyring>=24.0.0
+pyperclip>=1.8.2
+
+# Performance monitoring and optimization
+psutil>=5.9.0  # Memory and process monitoring
+cachetools>=5.3.0  # Advanced caching utilities
+
+# Optional performance enhancements
+# Uncomment if available on your system:
+# uvloop>=0.17.0  # Faster asyncio event loop (Unix only)
+# orjson>=3.8.0  # Faster JSON serialization
+# lxml>=4.9.0  # Faster XML processing for emails
+
+# Development and debugging tools (optional)
+# memory-profiler>=0.60.0  # Memory profiling
+# line-profiler>=4.0.0  # Line-by-line profiling
+# py-spy>=0.3.0  # Sampling profiler
