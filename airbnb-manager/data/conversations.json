@@ -1,0 +1,142 @@
+{
+  "36278fd497b6": {
+    "created_at": "2025-08-03T00:03:43.938776",
+    "last_updated": "2025-08-03T00:03:43.938828",
+    "data": {
+      "client_email": "Fabian Rojas <fabianrojasguzmann@gmail.com>"
+    },
+    "messages": [
+      {
+        "timestamp": "2025-08-03T00:03:43.938819",
+        "data": {
+          "client_email": "Fabian Rojas <fabianrojasguzmann@gmail.com>",
+          "message_text": "¡Genial!\r\n\r\nEl sáb, 2 ago 2025 a la(s) 11:44 p.m., <llaveo.chile@gmail.com> escribió:\r\n\r\n> Para confirmar su reserva, necesito que me indique la propiedad, su nombre\r\n> completo. ¿Podría proporcionar esa información?\r\n",
+          "subject": "Re: Re: CASO 3",
+          "message_type": "reservation_confirmation"
+        },
+        "type": "reservation_confirmation"
+      }
+    ],
+    "state": "new"
+  },
+  "6c01a341ed5c": {
+    "created_at": "2025-08-03T00:03:48.309777",
+    "last_updated": "2025-08-03T00:03:48.309829",
+    "data": {
+      "client_email": "Fabian Rojas <fabianrojasguzmann@gmail.com>"
+    },
+    "messages": [
+      {
+        "timestamp": "2025-08-03T00:03:48.309813",
+        "data": {
+          "client_email": "Fabian Rojas <fabianrojasguzmann@gmail.com>",
+          "message_text": "Claro.\r\n\r\n\r\nEl sáb, 2 ago 2025 a la(s) 11:44 p.m., <llaveo.chile@gmail.com> escribió:\r\n\r\n> Para confirmar su reserva, necesito que me indique la propiedad, su nombre\r\n> completo. ¿Podría proporcionar esa información?\r\n",
+          "subject": "Re: Re: CASO 2",
+          "message_type": "reservation_confirmation"
+        },
+        "type": "reservation_confirmation"
+      }
+    ],
+    "state": "new"
+  },
+  "f3442112cb72": {
+    "created_at": "2025-08-03T00:03:51.533924",
+    "last_updated": "2025-08-03T00:03:51.533951",
+    "data": {
+      "capacity": 3,
+      "city": "Valdivia",
+      "client_email": "Fabian Rojas <fabianrojasguzmann@gmail.com>"
+    },
+    "messages": [
+      {
+        "timestamp": "2025-08-03T00:03:51.533944",
+        "data": {
+          "client_email": "Fabian Rojas <fabianrojasguzmann@gmail.com>",
+          "message_text": "Me interesa mucho en especial la propiedad número 1, el Depa Isla Teja.\r\n\r\nEl sáb, 2 ago 2025 a la(s) 11:44 p.m., <llaveo.chile@gmail.com> escribió:\r\n\r\n> ¡Buenas noticias! Tenemos 2 propiedades disponibles:\r\n>\r\n> 1. Depa Isla Teja\r\n>    Ubicación: Los Robles 123 (Isla Teja, Valdivia)\r\n>    Capacidad: 3 personas - $30,000/noche\r\n>\r\n> 2. Casa Regional\r\n>    Ubicación: 22 de Mayo (Regional, Valdivia)\r\n>    Capacidad: 5 personas - $4,547/noche\r\n>\r\n> ¿Está interesado en alguna de estas propiedades? Mencione el nombre o\r\n> número de la propiedad que le interesa.\r\n>\r\n> Quedo atento a su respuesta.\r\n",
+          "subject": "Re: Re: CASO 1",
+          "capacity": 3,
+          "city": "Valdivia",
+          "message_type": "property_inquiry"
+        },
+        "type": "property_inquiry"
+      }
+    ],
+    "state": "new"
+  },
+  "b88deb26f85d": {
+    "created_at": "2025-08-03T00:07:03.372829",
+    "last_updated": "2025-08-03T00:07:03.372869",
+    "data": {
+      "check_in": "2025-09-05",
+      "check_out": "2025-09-07",
+      "city": "Antofagasta",
+      "client_email": "Fabian Rojas <fabianrojasguzmann@gmail.com>"
+    },
+    "messages": [
+      {
+        "timestamp": "2025-08-03T00:07:03.372860",
+        "data": {
+          "client_email": "Fabian Rojas <fabianrojasguzmann@gmail.com>",
+          "message_text": "Deseo alojarme en Antofagasta, desde el 5 hasta el 7 de septiembre. mi\r\nnombre es Juan PEPE\r\n\r\nEl dom, 3 ago 2025 a la(s) 12:03 a.m., <llaveo.chile@gmail.com> escribió:\r\n\r\n> Para confirmar su reserva, necesito que me indique la propiedad, las\r\n> fechas, su nombre completo. ¿Podría proporcionar esa información?\r\n",
+          "subject": "Re: Re: Re: CASO 3",
+          "check_in": "2025-09-05",
+          "check_out": "2025-09-07",
+          "city": "Antofagasta",
+          "message_type": "reservation_confirmation"
+        },
+        "type": "reservation_confirmation"
+      }
+    ],
+    "state": "new"
+  },
+  "6d4b7dcca665": {
+    "created_at": "2025-08-03T00:07:06.106621",
+    "last_updated": "2025-08-03T00:07:06.106653",
+    "data": {
+      "check_in": "2025-09-01",
+      "check_out": "2025-09-05",
+      "guest_name": "es Fabian Rojas",
+      "capacity": 2,
+      "city": "Valdivia",
+      "client_email": "Fabian Rojas <fabianrojasguzmann@gmail.com>"
+    },
+    "messages": [
+      {
+        "timestamp": "2025-08-03T00:07:06.106642",
+        "data": {
+          "client_email": "Fabian Rojas <fabianrojasguzmann@gmail.com>",
+          "message_text": "Deseo reservar en Valdivia, 2 personas, desde el 1 hasta el 5 de\r\nseptiembre, mi nombre completo es Fabian Rojas, me gustaría reservar la\r\ncasa regional\r\n\r\nEl dom, 3 ago 2025 a la(s) 12:03 a.m., <llaveo.chile@gmail.com> escribió:\r\n\r\n> Para confirmar su reserva, necesito que me indique la propiedad, las\r\n> fechas, su nombre completo. ¿Podría proporcionar esa información?\r\n",
+          "subject": "Re: Re: Re: CASO 2",
+          "check_in": "2025-09-01",
+          "check_out": "2025-09-05",
+          "guest_name": "es Fabian Rojas",
+          "capacity": 2,
+          "city": "Valdivia",
+          "message_type": "reservation_confirmation"
+        },
+        "type": "reservation_confirmation"
+      }
+    ],
+    "state": "new"
+  },
+  "1056dd02cb61": {
+    "created_at": "2025-08-03T00:08:37.359797",
+    "last_updated": "2025-08-03T00:08:37.359861",
+    "data": {
+      "client_email": "Fabian Rojas <fabianrojasguzmann@gmail.com>"
+    },
+    "messages": [
+      {
+        "timestamp": "2025-08-03T00:08:37.359851",
+        "data": {
+          "client_email": "Fabian Rojas <fabianrojasguzmann@gmail.com>",
+          "message_text": "Me gustaria reservar la casa regional\r\n\r\nEl dom, 3 ago 2025 a la(s) 12:07 a.m., <llaveo.chile@gmail.com> escribió:\r\n\r\n> Para confirmar su reserva, necesito que me indique la propiedad. ¿Podría\r\n> proporcionar esa información?\r\n",
+          "subject": "Re: Re: Re: Re: CASO 2",
+          "message_type": "reservation_confirmation"
+        },
+        "type": "reservation_confirmation"
+      }
+    ],
+    "state": "new"
+  }
+}

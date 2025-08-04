@@ -1,0 +1,79 @@
+2025-08-02 20:46:37 - INFO - MSG-1 | Fabian Rojas <fabianrojasguzmann@gmail.com> | consulta_disponibilidad | respondido | Fechas: ['2025-08-02', '2025-08-05']
+2025-08-02 20:56:45 - WARNING - MSG-2 | Fabian Rojas <fabianrojasguzmann@gmail.com> | REVISIÓN MANUAL | Mensaje no clasificado - requiere atención humana
+2025-08-02 20:56:45 - INFO - MSG-2 | Fabian Rojas <fabianrojasguzmann@gmail.com> | requiere_revision_manual | revision_manual | Mensaje no pudo ser clasificado automáticamente
+2025-08-02 20:56:45 - WARNING - MSG-3 | Fabian Rojas <fabianrojasguzmann@gmail.com> | REVISIÓN MANUAL | Mensaje no clasificado - requiere atención humana
+2025-08-02 20:56:45 - INFO - MSG-3 | Fabian Rojas <fabianrojasguzmann@gmail.com> | requiere_revision_manual | revision_manual | Mensaje no pudo ser clasificado automáticamente
+2025-08-02 21:24:19 - INFO - MSG-4 | Fabian Rojas <fabianrojasguzmann@gmail.com> | busqueda_propiedades | respondido | Criterios: {'ciudad': 'Valdivia'}
+2025-08-02 21:24:22 - INFO - MSG-5 | Fabian Rojas <fabianrojasguzmann@gmail.com> | consulta_disponibilidad | respondido | Fechas: ['2025-08-10', '2025-08-14'], Criterios: {'capacidad_min': 3}
+2025-08-02 21:24:25 - INFO - MSG-6 | Fabian Rojas <fabianrojasguzmann@gmail.com> | consulta_disponibilidad | respondido | Fechas: ['2025-08-05', '2025-08-09'], Criterios: {'capacidad_min': 3, 'ciudad': 'Valdivia'}
+2025-08-02 21:26:43 - INFO - MSG-7 | Fabian Rojas <fabianrojasguzmann@gmail.com> | busqueda_propiedades | respondido | Criterios: {'capacidad_min': 5, 'ciudad': 'Valdivia'}
+2025-08-02 21:26:46 - INFO - MSG-8 | Fabian Rojas <fabianrojasguzmann@gmail.com> | busqueda_propiedades | respondido | Criterios: {'capacidad_min': 3}
+2025-08-02 21:29:03 - INFO - MSG-9 | Fabian Rojas <fabianrojasguzmann@gmail.com> | consulta_disponibilidad | respondido | Fechas: ['2025-09-20', '2025-09-23'], Criterios: {'capacidad_min': 5, 'ciudad': 'Valdivia'}
+2025-08-02 21:29:06 - INFO - MSG-10 | Fabian Rojas <fabianrojasguzmann@gmail.com> | consulta_disponibilidad | respondido | Fechas: ['2025-08-10', '2025-08-14'], Criterios: {'capacidad_min': 3}
+2025-08-02 21:53:46 - INFO - MSG-11 | Fabian Rojas <fabianrojasguzmann@gmail.com> | confirmacion_reserva | respondido | Reserva confirmada y registrada
+2025-08-02 21:53:49 - INFO - MSG-12 | Fabian Rojas <fabianrojasguzmann@gmail.com> | busqueda_propiedades | respondido | Criterios: {'capacidad_min': 3}
+2025-08-02 21:53:52 - INFO - MSG-13 | Fabian Rojas <fabianrojasguzmann@gmail.com> | confirmacion_reserva | respondido | Reserva confirmada y registrada
+2025-08-02 21:57:22 - INFO - MSG-14 | Fabian Rojas <fabianrojasguzmann@gmail.com> | confirmacion_reserva | respondido | Reserva confirmada y registrada
+2025-08-02 21:57:26 - INFO - MSG-15 | Fabian Rojas <fabianrojasguzmann@gmail.com> | consulta_disponibilidad | respondido | Fechas: ['2025-09-09', '2025-09-15'], Criterios: {'capacidad_min': 3}
+2025-08-02 21:57:29 - INFO - MSG-16 | Fabian Rojas <fabianrojasguzmann@gmail.com> | confirmacion_reserva | respondido | Reserva confirmada y registrada
+2025-08-02 22:18:13 - INFO - MSG-17 | Fabian Rojas <fabianrojasguzmann@gmail.com> | confirmacion_reserva | respondido | Reserva confirmada y registrada
+2025-08-02 22:18:16 - INFO - MSG-18 | Fabian Rojas <fabianrojasguzmann@gmail.com> | confirmacion_reserva | respondido | Reserva confirmada y registrada
+2025-08-02 22:18:19 - INFO - MSG-19 | Fabian Rojas <fabianrojasguzmann@gmail.com> | busqueda_propiedades | respondido | Criterios: {'capacidad_min': 3, 'ciudad': 'Antofagasta'}
+2025-08-02 22:20:17 - INFO - MSG-20 | Fabian Rojas <fabianrojasguzmann@gmail.com> | confirmacion_reserva | respondido | Reserva confirmada y registrada
+2025-08-02 22:35:22 - INFO - MSG-21 | Fabian Rojas <fabianrojasguzmann@gmail.com> | busqueda_propiedades | respondido | Criterios: {'capacidad_min': 2}
+2025-08-02 22:35:25 - INFO - MSG-22 | Fabian Rojas <fabianrojasguzmann@gmail.com> | consulta_disponibilidad | respondido | Fechas: ['2025-08-05', '2025-08-10'], Criterios: {'capacidad_min': 4, 'ciudad': 'Valdivia'}
+2025-08-02 22:35:28 - INFO - MSG-23 | Fabian Rojas <fabianrojasguzmann@gmail.com> | busqueda_propiedades | respondido | Criterios: {'capacidad_min': 2, 'ciudad': 'Valdivia'}
+2025-08-02 22:40:42 - INFO - MSG-24 | Fabian Rojas <fabianrojasguzmann@gmail.com> | confirmacion_reserva | respondido | Reserva confirmada y registrada
+2025-08-02 22:40:45 - INFO - MSG-25 | Fabian Rojas <fabianrojasguzmann@gmail.com> | confirmacion_reserva | respondido | Reserva confirmada y registrada
+2025-08-02 22:40:48 - INFO - MSG-26 | Fabian Rojas <fabianrojasguzmann@gmail.com> | confirmacion_reserva | respondido | Reserva confirmada y registrada
+2025-08-02 22:43:05 - INFO - MSG-27 | Fabian Rojas <fabianrojasguzmann@gmail.com> | confirmacion_reserva | respondido | Reserva confirmada y registrada
+2025-08-02 23:10:07 - INFO - MSG-28 | Fabian Rojas <fabianrojasguzmann@gmail.com> | busqueda_propiedades | respondido | Criterios: {'capacidad_min': 2, 'ciudad': 'Valdivia'}
+2025-08-02 23:10:10 - INFO - MSG-29 | Fabian Rojas <fabianrojasguzmann@gmail.com> | busqueda_propiedades | respondido | Criterios: {'capacidad_min': 4, 'ciudad': 'Valdivia'}
+2025-08-02 23:10:12 - INFO - MSG-30 | Fabian Rojas <fabianrojasguzmann@gmail.com> | busqueda_propiedades | respondido | Criterios: {'capacidad_min': 2}
+2025-08-02 23:12:42 - INFO - MSG-31 | Fabian Rojas <fabianrojasguzmann@gmail.com> | busqueda_propiedades | respondido | Criterios: {'capacidad_min': 3, 'ciudad': 'Valdivia'}
+2025-08-02 23:12:45 - INFO - MSG-32 | Fabian Rojas <fabianrojasguzmann@gmail.com> | confirmacion_reserva | respondido | Reserva confirmada y registrada
+2025-08-02 23:12:47 - INFO - MSG-33 | Fabian Rojas <fabianrojasguzmann@gmail.com> | confirmacion_reserva | respondido | Reserva confirmada y registrada
+2025-08-02 23:35:12 - ERROR - MSG-34 | ERROR | 'AutoResponder' object has no attribute 'analizar_mensaje'
+2025-08-02 23:35:12 - ERROR - MSG-35 | ERROR | 'AutoResponder' object has no attribute 'analizar_mensaje'
+2025-08-02 23:35:12 - ERROR - MSG-36 | ERROR | 'AutoResponder' object has no attribute 'analizar_mensaje'
+2025-08-02 23:41:57 - INFO - MSG-37 | Fabian Rojas <fabianrojasguzmann@gmail.com> | busqueda_propiedades | respondido | Criterios: {'capacidad_min': 2, 'ciudad': 'Valdivia'}
+2025-08-02 23:42:00 - INFO - MSG-38 | Fabian Rojas <fabianrojasguzmann@gmail.com> | busqueda_propiedades | respondido | Criterios: {'capacidad_min': 4, 'ciudad': 'Valdivia'}
+2025-08-02 23:42:03 - INFO - MSG-39 | Fabian Rojas <fabianrojasguzmann@gmail.com> | busqueda_propiedades | respondido | Criterios: {'ciudad': 'Antofagasta'}
+2025-08-02 23:44:31 - INFO - MSG-40 | Fabian Rojas <fabianrojasguzmann@gmail.com> | busqueda_propiedades | respondido | Criterios: {'capacidad_min': 3, 'ciudad': 'Valdivia'}
+2025-08-02 23:44:34 - INFO - MSG-41 | Fabian Rojas <fabianrojasguzmann@gmail.com> | confirmacion_reserva | respondido | Reserva confirmada y registrada
+2025-08-02 23:44:37 - INFO - MSG-42 | Fabian Rojas <fabianrojasguzmann@gmail.com> | confirmacion_reserva | respondido | Reserva confirmada y registrada
+2025-08-03 00:03:48 - INFO - MSG-43 | Fabian Rojas <fabianrojasguzmann@gmail.com> | reservation_confirmation | respondido | Respuesta automática generada
+2025-08-03 00:03:51 - INFO - MSG-44 | Fabian Rojas <fabianrojasguzmann@gmail.com> | reservation_confirmation | respondido | Respuesta automática generada
+2025-08-03 00:03:54 - INFO - MSG-45 | Fabian Rojas <fabianrojasguzmann@gmail.com> | property_inquiry | respondido | Respuesta automática generada
+2025-08-03 00:07:06 - INFO - MSG-46 | Fabian Rojas <fabianrojasguzmann@gmail.com> | reservation_confirmation | respondido | Respuesta automática generada
+2025-08-03 00:07:09 - INFO - MSG-47 | Fabian Rojas <fabianrojasguzmann@gmail.com> | reservation_confirmation | respondido | Respuesta automática generada
+2025-08-03 00:08:40 - INFO - MSG-48 | Fabian Rojas <fabianrojasguzmann@gmail.com> | reservation_confirmation | respondido | Respuesta automática generada
+2025-08-03 00:20:25 - INFO - MSG-49 | Fabian Rojas <fabianrojasguzmann@gmail.com> | property_inquiry | respondido | Respuesta automática generada
+2025-08-03 00:20:28 - INFO - MSG-50 | Fabian Rojas <fabianrojasguzmann@gmail.com> | property_inquiry | respondido | Respuesta automática generada
+2025-08-03 00:22:00 - INFO - MSG-51 | Fabian Rojas <fabianrojasguzmann@gmail.com> | reservation_confirmation | respondido | Respuesta automática generada
+2025-08-03 00:22:03 - INFO - MSG-52 | Fabian Rojas <fabianrojasguzmann@gmail.com> | property_inquiry | respondido | Respuesta automática generada
+2025-08-03 00:26:42 - INFO - MSG-53 | Fabian Rojas <fabianrojasguzmann@gmail.com> | reservation_confirmation | respondido | Respuesta automática generada
+2025-08-03 00:36:07 - INFO - MSG-54 | Fabian Rojas <fabianrojasguzmann@gmail.com> | reservation_confirmation | respondido | Respuesta automática generada
+2025-08-03 00:36:09 - INFO - MSG-55 | Fabian Rojas <fabianrojasguzmann@gmail.com> | reservation_confirmation | respondido | Respuesta automática generada
+2025-08-03 00:37:41 - INFO - MSG-56 | Fabian Rojas <fabianrojasguzmann@gmail.com> | property_inquiry | respondido | Respuesta automática generada
+2025-08-03 00:37:44 - INFO - MSG-57 | Fabian Rojas <fabianrojasguzmann@gmail.com> | reservation_confirmation | respondido | Respuesta automática generada
+2025-08-03 00:37:46 - INFO - MSG-58 | Fabian Rojas <fabianrojasguzmann@gmail.com> | reservation_confirmation | respondido | Respuesta automática generada
+2025-08-03 00:45:23 - INFO - MSG-59 | Fabian Rojas <fabianrojasguzmann@gmail.com> | reservation_confirmation | respondido | Respuesta automática generada
+2025-08-03 00:45:26 - INFO - MSG-60 | Fabian Rojas <fabianrojasguzmann@gmail.com> | property_inquiry | respondido | Respuesta automática generada
+2025-08-03 00:46:36 - INFO - MSG-61 | Fabian Rojas <fabianrojasguzmann@gmail.com> | reservation_confirmation | respondido | Respuesta automática generada
+2025-08-03 00:47:18 - INFO - MSG-62 | Fabian Rojas <fabianrojasguzmann@gmail.com> | reservation_confirmation | respondido | Respuesta automática generada
+2025-08-03 01:10:34 - ERROR - MSG-1 | ERROR | 'status'
+2025-08-03 01:10:34 - INFO - MSG-1 | Fabian Rojas <fabianrojasguzmann@gmail.com> | error | revision_manual | Error: 'status'
+2025-08-03 01:15:40 - INFO - MSG-2 | Fabian Rojas <fabianrojasguzmann@gmail.com> | general_inquiry | respondido | Respuesta automática generada
+2025-08-03 01:39:19 - INFO - MSG-3 | Fabian Rojas <fabianrojasguzmann@gmail.com> | error | error | Error general procesando mensaje: 'MessageProcessor' object has no attribute 'auto_responder'
+2025-08-03 01:56:09 - ERROR - MSG-4 | ERROR | table conversations has no column named remitente
+2025-08-03 01:56:09 - INFO - MSG-4 | Fabian Rojas <fabianrojasguzmann@gmail.com> | error | revision_manual | Error: table conversations has no column named remitente
+2025-08-03 02:00:49 - INFO - MSG-5 | Fabian Rojas <fabianrojasguzmann@gmail.com> | respuesta_automatica | respondido | Respuesta automática generada
+2025-08-03 02:01:59 - INFO - MSG-6 | Fabian Rojas <fabianrojasguzmann@gmail.com> | respuesta_automatica | respondido | Respuesta automática generada
+2025-08-03 02:08:04 - INFO - MSG-7 | Fabian Rojas <fabianrojasguzmann@gmail.com> | respuesta_automatica | respondido | Respuesta automática generada
+2025-08-03 02:08:59 - INFO - MSG-8 | Fabian Rojas <fabianrojasguzmann@gmail.com> | respuesta_automatica | respondido | Respuesta automática generada
+2025-08-03 02:16:15 - INFO - MSG-9 | Fabian Rojas <fabianrojasguzmann@gmail.com> | respuesta_automatica | respondido | Respuesta automática generada
+2025-08-04 16:07:00 - INFO - MSG-10 | Fabian Rojas <fabianrojasguzmann@gmail.com> | respuesta_automatica | respondido | Respuesta automática generada
+2025-08-04 16:30:59 - INFO - MSG-11 | Fabian Rojas <fabianrojasguzmann@gmail.com> | respuesta_automatica | respondido | Respuesta automática generada
+2025-08-04 16:53:19 - INFO - MSG-12 | Fabian Rojas <fabianrojasguzmann@gmail.com> | respuesta_automatica | respondido | Respuesta automática generada
+2025-08-04 17:04:38 - INFO - MSG-13 | Fabian Rojas <fabianrojasguzmann@gmail.com> | respuesta_automatica | respondido | Respuesta automática generada
